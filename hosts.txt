@@ -1,175 +1,175 @@
-adobe.io
-ai.google.dev
-aicode.googleapis.com
-aida.googleapis.com
-aisandbox-pa.googleapis.com
-aistudio.google.com
-aitestkitchen.withgoogle.com
-alkalicore-pa.clients6.google.com
-alkalimakersuite-pa.clients6.google.com
-amd.com
-anthropic.com
-antigravity-pa.googleapis.com
-antigravity-unleash.goog
-antigravity.google
-antigravity.googleapis.com
-api-sg-central.trae.ai
-api.groq.com
-api.imgur.com
-api.jetbrains.ai
-api.trae.ai
-api16-normal-alisg.mchost.guru
-api2.cursor.sh
-api3.cursor.sh
-api4.cursor.sh
-api5.cursor.sh
-apis.google.com
-appcatalyst.pa.googleapis.com
-arduino.cc
-assistant-s3-pa.googleapis.com
-audacy.com
-authenticate.cursor.sh
-authenticator.cursor.sh
-autodesk.com
-autodesk.net
-avast.com
-avast.ru
-bard.google.com
-bike-components.de
-bike24.com
-brave.com
-build.nvidia.com
-camelai.com
-canva-apps.com
-canva.com
-canva.dev
-cerebras.ai
-chatgpt.com
-chatgpt.site
-chess.com
-cici.com
-claude.ai
-claude.com
-claudemcpclient.com
-claudeusercontent.com
-console.groq.com
-corsair.com
-cursor-cdn.com
-cursor.com
-cursorvm.com
-daily-cloudcode-pa.googleapis.com
-datastudio.google.com
-deepl.app
-deepl.com
-deepmind.com
-deepmind.google
-deezer.com
-dell.com
-dellcdn.com
-developer.nvidia.com
-developerprofiles-pa.googleapis.com
-dola.com
-download.todesktop.com
-dr.miromind.ai
-dyson.com
-dyson.de
-dyson.se
-elevenlabs.io
-elevenmusic.io
-elevenreader.io
-flow.google
-flow.google.com
-flowmusic.app
-formula1.com
-geller-pa.googleapis.com
-gemini.google
-gemini.google.com
-geminiweb-pa.clients.google.com
-geminiweb-pa.clients6.google.com
-generativeai.google
-generativelanguage.googleapis.com
-genspark.ai
-geolocation.onetrust.com
-gql.twitch.tv
-grok.com
-grok.x.com
-hume.ai
-ikea.com
-inceptionlabs.ai
-intel.com
-intel.de
-intel.se
-jetbrains.com
-jetbrains.space
-jules.google
-jules.google.com
-kaleido.ai
-labs.google
-labs.google.com
-labstailwind.pa.googleapis.com
-lego.com
-lookerstudio.google.com
-makersuite.google.com
-makita.ca
-makita.cl
-makita.co.nz
-makita.com.au
-makita.com.kh
-makita.com.tw
-makita.sk
-makita.ua
-makitalatinamerica.com
-malwarebytes.com
-marketplace.cursorapi.com
-meta.ai
-microchip.com
-myjetbrains.com
-ngc.nvidia.com
-notebook-pa.googleapis.com
-notebook.google
-notebook.google.com
-notebooklm-pa.googleapis.com
-notebooklm.google
-notebooklm.google.com
-o.pki.goog
-oaistatic.com
-oaiusercontent.com
-opal.google
-opal.google.com
-opal.withgoogle.com
-openai.com
-opencode.ai
-openrouter.ai
-oracle.com
-people-pa.clients6.google.com
-pi.ai
-platform.parallel.ai
-playground.google
-proactivebackend-pa.googleapis.com
-qoder.com
-qualtrics.com
-repo42.cursor.sh
-robinfrontend-pa.googleapis.com
-scdn.co
-signaler-pa.clients6.google.com
-spotify.com
-spotify.dev
-stitch.withgoogle.com
-strava.com
-trae-api-sg.mchost.guru
-us-asia.gcpp.cursor.sh
-us-eu.gcpp.cursor.sh
-us-only.gcpp.cursor.sh
-usher.ttvnw.net
-w-x.co
-waa-pa.clients6.google.com
-weather.com
-web.archive.org
-webchannel-alkalimakersuite-pa.clients6.google.com
-wund.com
-wunderground.com
-wxug.com
-x.ai
-xerox.com
-xiaomi.eu
-yupp.ai
+1.1.1.1	adobe.io
+1.1.1.1	ai.google.dev
+1.1.1.1	aicode.googleapis.com
+1.1.1.1	aida.googleapis.com
+1.1.1.1	aisandbox-pa.googleapis.com
+1.1.1.1	aistudio.google.com
+1.1.1.1	aitestkitchen.withgoogle.com
+1.1.1.1	alkalicore-pa.clients6.google.com
+1.1.1.1	alkalimakersuite-pa.clients6.google.com
+1.1.1.1	amd.com
+1.1.1.1	anthropic.com
+1.1.1.1	antigravity-pa.googleapis.com
+1.1.1.1	antigravity-unleash.goog
+1.1.1.1	antigravity.google
+1.1.1.1	antigravity.googleapis.com
+1.1.1.1	api-sg-central.trae.ai
+1.1.1.1	api.groq.com
+1.1.1.1	api.imgur.com
+1.1.1.1	api.jetbrains.ai
+1.1.1.1	api.trae.ai
+1.1.1.1	api16-normal-alisg.mchost.guru
+1.1.1.1	api2.cursor.sh
+1.1.1.1	api3.cursor.sh
+1.1.1.1	api4.cursor.sh
+1.1.1.1	api5.cursor.sh
+1.1.1.1	apis.google.com
+1.1.1.1	appcatalyst.pa.googleapis.com
+1.1.1.1	arduino.cc
+1.1.1.1	assistant-s3-pa.googleapis.com
+1.1.1.1	audacy.com
+1.1.1.1	authenticate.cursor.sh
+1.1.1.1	authenticator.cursor.sh
+1.1.1.1	autodesk.com
+1.1.1.1	autodesk.net
+1.1.1.1	avast.com
+1.1.1.1	avast.ru
+1.1.1.1	bard.google.com
+1.1.1.1	bike-components.de
+1.1.1.1	bike24.com
+1.1.1.1	brave.com
+1.1.1.1	build.nvidia.com
+1.1.1.1	camelai.com
+1.1.1.1	canva-apps.com
+1.1.1.1	canva.com
+1.1.1.1	canva.dev
+1.1.1.1	cerebras.ai
+1.1.1.1	chatgpt.com
+1.1.1.1	chatgpt.site
+1.1.1.1	chess.com
+1.1.1.1	cici.com
+1.1.1.1	claude.ai
+1.1.1.1	claude.com
+1.1.1.1	claudemcpclient.com
+1.1.1.1	claudeusercontent.com
+1.1.1.1	console.groq.com
+1.1.1.1	corsair.com
+1.1.1.1	cursor-cdn.com
+1.1.1.1	cursor.com
+1.1.1.1	cursorvm.com
+1.1.1.1	daily-cloudcode-pa.googleapis.com
+1.1.1.1	datastudio.google.com
+1.1.1.1	deepl.app
+1.1.1.1	deepl.com
+1.1.1.1	deepmind.com
+1.1.1.1	deepmind.google
+1.1.1.1	deezer.com
+1.1.1.1	dell.com
+1.1.1.1	dellcdn.com
+1.1.1.1	developer.nvidia.com
+1.1.1.1	developerprofiles-pa.googleapis.com
+1.1.1.1	dola.com
+1.1.1.1	download.todesktop.com
+1.1.1.1	dr.miromind.ai
+1.1.1.1	dyson.com
+1.1.1.1	dyson.de
+1.1.1.1	dyson.se
+1.1.1.1	elevenlabs.io
+1.1.1.1	elevenmusic.io
+1.1.1.1	elevenreader.io
+1.1.1.1	flow.google
+1.1.1.1	flow.google.com
+1.1.1.1	flowmusic.app
+1.1.1.1	formula1.com
+1.1.1.1	geller-pa.googleapis.com
+1.1.1.1	gemini.google
+1.1.1.1	gemini.google.com
+1.1.1.1	geminiweb-pa.clients.google.com
+1.1.1.1	geminiweb-pa.clients6.google.com
+1.1.1.1	generativeai.google
+1.1.1.1	generativelanguage.googleapis.com
+1.1.1.1	genspark.ai
+1.1.1.1	geolocation.onetrust.com
+1.1.1.1	gql.twitch.tv
+1.1.1.1	grok.com
+1.1.1.1	grok.x.com
+1.1.1.1	hume.ai
+1.1.1.1	ikea.com
+1.1.1.1	inceptionlabs.ai
+1.1.1.1	intel.com
+1.1.1.1	intel.de
+1.1.1.1	intel.se
+1.1.1.1	jetbrains.com
+1.1.1.1	jetbrains.space
+1.1.1.1	jules.google
+1.1.1.1	jules.google.com
+1.1.1.1	kaleido.ai
+1.1.1.1	labs.google
+1.1.1.1	labs.google.com
+1.1.1.1	labstailwind.pa.googleapis.com
+1.1.1.1	lego.com
+1.1.1.1	lookerstudio.google.com
+1.1.1.1	makersuite.google.com
+1.1.1.1	makita.ca
+1.1.1.1	makita.cl
+1.1.1.1	makita.co.nz
+1.1.1.1	makita.com.au
+1.1.1.1	makita.com.kh
+1.1.1.1	makita.com.tw
+1.1.1.1	makita.sk
+1.1.1.1	makita.ua
+1.1.1.1	makitalatinamerica.com
+1.1.1.1	malwarebytes.com
+1.1.1.1	marketplace.cursorapi.com
+1.1.1.1	meta.ai
+1.1.1.1	microchip.com
+1.1.1.1	myjetbrains.com
+1.1.1.1	ngc.nvidia.com
+1.1.1.1	notebook-pa.googleapis.com
+1.1.1.1	notebook.google
+1.1.1.1	notebook.google.com
+1.1.1.1	notebooklm-pa.googleapis.com
+1.1.1.1	notebooklm.google
+1.1.1.1	notebooklm.google.com
+1.1.1.1	o.pki.goog
+1.1.1.1	oaistatic.com
+1.1.1.1	oaiusercontent.com
+1.1.1.1	opal.google
+1.1.1.1	opal.google.com
+1.1.1.1	opal.withgoogle.com
+1.1.1.1	openai.com
+1.1.1.1	opencode.ai
+1.1.1.1	openrouter.ai
+1.1.1.1	oracle.com
+1.1.1.1	people-pa.clients6.google.com
+1.1.1.1	pi.ai
+1.1.1.1	platform.parallel.ai
+1.1.1.1	playground.google
+1.1.1.1	proactivebackend-pa.googleapis.com
+1.1.1.1	qoder.com
+1.1.1.1	qualtrics.com
+1.1.1.1	repo42.cursor.sh
+1.1.1.1	robinfrontend-pa.googleapis.com
+1.1.1.1	scdn.co
+1.1.1.1	signaler-pa.clients6.google.com
+1.1.1.1	spotify.com
+1.1.1.1	spotify.dev
+1.1.1.1	stitch.withgoogle.com
+1.1.1.1	strava.com
+1.1.1.1	trae-api-sg.mchost.guru
+1.1.1.1	us-asia.gcpp.cursor.sh
+1.1.1.1	us-eu.gcpp.cursor.sh
+1.1.1.1	us-only.gcpp.cursor.sh
+1.1.1.1	usher.ttvnw.net
+1.1.1.1	w-x.co
+1.1.1.1	waa-pa.clients6.google.com
+1.1.1.1	weather.com
+1.1.1.1	web.archive.org
+1.1.1.1	webchannel-alkalimakersuite-pa.clients6.google.com
+1.1.1.1	wund.com
+1.1.1.1	wunderground.com
+1.1.1.1	wxug.com
+1.1.1.1	x.ai
+1.1.1.1	xerox.com
+1.1.1.1	xiaomi.eu
+1.1.1.1	yupp.ai
