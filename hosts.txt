@@ -43,6 +43,7 @@
 1.1.1.1	canva-apps.com
 1.1.1.1	canva.com
 1.1.1.1	canva.dev
+1.1.1.1	cdn.usefathom.com
 1.1.1.1	cerebras.ai
 1.1.1.1	chatgpt.com
 1.1.1.1	chatgpt.site
